@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lissandra!
+- 👀 I’m interested in terraform, devops, docker, kubernets, cloud computing
+- 🌱 I’m currently learning terraform, azure, python and others
+- 💞️ I’m looking to collaborate on terraform and python projects
+- 📫 How to reach me : lissandra.galhardi@gmail.com or https://www.linkedin.com/in/lissandra-galhardi/
